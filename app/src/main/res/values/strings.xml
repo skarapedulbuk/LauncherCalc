@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">LauncherCalc</string>
+    <string name="app_name">Calc Launcher</string>
+    <string name="launch">Запустить куркулятор</string>
+    <string name="some_message">Message</string>
 </resources>
